@@ -2,13 +2,11 @@
 
 Hackintosh Big Sur Ver. 11.4 (20F71)
 opencore 0.6.9
-
 EFI ini dapat digunakan langsung dengan mengcopy folder EFI langsung ke flashdisc etc.
-
-Perhatian:
+**Perhatian:**
 silahkan generate serial number sendiri.
 
-**PC SPEC:**
+# PC SPEC:**
 1. Processor: Intel Core i5 9400, 9th Gen (Code name: Coffee Lake)
 2. Motherboard: Gigabyte Z390 UD
 2. Ram 16 GB
