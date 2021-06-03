@@ -6,7 +6,7 @@ EFI ini dapat digunakan langsung dengan mengcopy folder EFI langsung ke flashdis
 **Perhatian:**
 silahkan generate serial number sendiri.
 
-# PC SPEC:**
+# PC SPEC:
 1. Processor: Intel Core i5 9400, 9th Gen (Code name: Coffee Lake)
 2. Motherboard: Gigabyte Z390 UD
 2. Ram 16 GB
