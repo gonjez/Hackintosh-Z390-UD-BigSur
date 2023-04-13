@@ -17,8 +17,21 @@ EFI ini dapat digunakan langsung dengan mengcopy folder EFI langsung ke flashdis
 - dGPU: Sapphire Radeon RX 5600 XT
 - Audio Codec: Realtek ALC 887
 - Ethernet: Realtek RTL8168H/8111H PCI Express Gigabit 
+- WiFi : Broadcom BCM943602CS PCIe Bluetooth
 - Resolution: Full HD 1920 x 1080
 - Display Monitor: Samsung S24F350
 - Keyboard: Logitech G213
 - Mouse: Logitech G102
+- Webcam (cheap)
 - Bootloader: Opencore 0.6.9
+
+# WORKS
+- iMessage
+- FaceTime
+- Airdrop
+- QE/CI
+- Sleep
+
+# NOT WORKS
+- Sleep not works on Monterey, USBInjectAll.kext not support >= Monterey
+-
